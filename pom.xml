@@ -113,7 +113,7 @@
                         <id>default-cli</id>
                         <configuration>
                             <mainClass>
-                                com.example.trabajo1_ing_sof_2_p1/com.example.trabajo1_ing_sof_2_p1.HelloApplication
+                                com.example.trabajo1_ing_sof_2_p1/co.edu.unbosque.trabajo1_ing_sof_2_p1.HelloApplication
                             </mainClass>
                             <launcher>app</launcher>
                             <jlinkZipName>app</jlinkZipName>

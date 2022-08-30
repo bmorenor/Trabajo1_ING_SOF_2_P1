@@ -10,6 +10,6 @@ module com.example.trabajo1_ing_sof_2_p1 {
     requires org.kordamp.bootstrapfx.core;
     requires eu.hansolo.tilesfx;
 
-    opens com.example.trabajo1_ing_sof_2_p1 to javafx.fxml;
-    exports com.example.trabajo1_ing_sof_2_p1;
+    opens co.edu.unbosque.trabajo1_ing_sof_2_p1 to javafx.fxml;
+    exports co.edu.unbosque.trabajo1_ing_sof_2_p1;
 }
